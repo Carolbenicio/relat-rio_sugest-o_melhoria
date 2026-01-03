@@ -1,6 +1,6 @@
 situação: Empresa deseja redução de gastos 
 
-TOTALMENTO FICCTICIO 
+TOTALMENTO FICTICIO 
 
 
 # RELATÓRIO DE IMPLEMENTAÇÃO DE SERVIÇOS AWS
